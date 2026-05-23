@@ -1,22 +1,49 @@
-# SkillCraft Technology Cyber Security Internship
+# 🛡 SkillCraft Technology Cyber Security Internship
 
 This repository contains all tasks completed during my Cyber Security Internship at SkillCraft Technology.
 
 ---
 
-# 📌 Tasks
+# 📌 Internship Tasks
 
 ## 🔐 Task 1 - Caesar Cipher
-Encryption & Decryption using Caesar Cipher algorithm.
+A Python-based encryption & decryption tool using the Caesar Cipher algorithm.
+
+### Features
+- Encrypt messages
+- Decrypt messages
+- Custom shift values
+
+---
 
 ## 🖼 Task 2 - Image Encryption Tool
-Image encryption using pixel manipulation techniques.
+An image encryption system using pixel manipulation techniques.
+
+### Features
+- Encrypt images
+- Decrypt images
+- XOR-based pixel operations
+
+---
 
 ## 🔑 Task 3 - Password Strength Checker
-Checks password security based on various criteria.
+A security tool that analyzes password strength.
+
+### Features
+- Length validation
+- Uppercase/lowercase detection
+- Numbers & special character checks
+
+---
 
 ## ⌨️ Task 4 - Basic Keylogger
-Educational keylogger implementation using Python.
+An educational keylogger developed for cybersecurity learning purposes only.
+
+### Features
+- Captures keystrokes
+- Saves logs locally
+
+⚠️ For educational purposes only.
 
 ---
 
@@ -27,5 +54,5 @@ Educational keylogger implementation using Python.
 
 ---
 
-# 📚 Internship
-SkillCraft Technology - Cyber Security Internship
+# 📚 Internship Domain
+Cyber Security Internship at SkillCraft Technology
